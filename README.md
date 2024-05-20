@@ -20,6 +20,13 @@ Welcome to an interactive Tableau dashboard that delves deep into analyzing vari
    - **Segmentation Dashboard**: Divides customers into distinct groups based on attributes like age, balance, and job classification.
 
 
+## Dashboard
+
+[![King County Real Estate Analysis](https://public.tableau.com/static/images/YO/your_dashboard_name/1.png)](https://public.tableau.com/shared/ZTGTZKT7J?:display_count=n&:origin=viz_share_link)
+
+Click on the image above to interact with the dashboard on Tableau Public.
+
+
 
 This dashboard offers a concise overview of the bank's customer base, presenting essential demographic and segmentation data. By leveraging these insights, banks can tailor their products and services to better meet customer needs and drive business growth.
 
