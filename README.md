@@ -22,7 +22,7 @@ Welcome to an interactive Tableau dashboard that delves deep into analyzing vari
 
 ## Dashboard
 
-[![King County Real Estate Analysis](https://public.tableau.com/static/images/YO/your_dashboard_name/1.png)](https://public.tableau.com/shared/X9RRX8R32?:display_count=n&:origin=viz_share_link)
+[![King County Real Estate Analysis](https://public.tableau.com/static/images/YO/your_dashboard_name/1.png)](https://public.tableau.com/shared/HCPQDX86B?:display_count=n&:origin=viz_share_link)
 
 Click on the image above to interact with the dashboard on Tableau Public.
 
